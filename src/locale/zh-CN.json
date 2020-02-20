@@ -22,5 +22,6 @@
     "schema.security": "安全",
     "schema.trading": "交易",
     "schema.updates": "更新",
-    "static.add": "新增"
+    "static.add": "新增",
+    "schema.bot.SteamParentalCode.description": "您的 Steam 家庭监护 PIN 代码",
 }
